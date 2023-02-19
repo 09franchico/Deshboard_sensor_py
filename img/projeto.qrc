@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="imagem1">
+    <file>temperaturas.png</file>
+  </qresource>
+  <qresource prefix="imagem2">
+    <file>temp.png</file>
+  </qresource>
+  <qresource prefix="imagem3">
+    <file>indece.png</file>
+  </qresource>
+</RCC>
